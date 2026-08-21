@@ -161,7 +161,7 @@ Certificates and achievement images can be opened in a dedicated full-screen ima
 ## 📂 Project Structure
 
 ```text
-Samia-Akter-Erin-Portfolio/
+
 │
 ├── index.html
 ├── style.css
